@@ -1,6 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). The app is deployed to 
 github pages using the following guide : https://github.com/gregrickaby/nextjs-github-pages
 
+## Additional framworks
+- Tailwind
+- Daisy UI
+- HeroIcons
+
 ## Getting Started
 
 First, run the development server:
